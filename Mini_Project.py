@@ -30,6 +30,7 @@ if fast == "Y" :
 else :
     print("program end.")
     print("program end.")
+   print("program end.")
 
                                           
 
